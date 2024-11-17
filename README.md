@@ -3,7 +3,7 @@ Welcome to my GitHub profile,<br><br>I hold a Bachelor's degree in Computer Syst
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christChadrak) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mvoungouchad18) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChristChad-mv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
